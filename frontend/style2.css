@@ -1,0 +1,65 @@
+body{
+    background-color: #020202;
+}
+
+.links{
+    display: flex;
+    background-color: #3D3B8E;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 2rem;
+    color: white;
+}
+
+.links a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.links a:hover{
+    color: #f4ae46;
+    border-bottom: 0.1px solid #f4ae46;
+}
+
+.tabla{
+    margin: 0px 60px;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: white;
+}
+
+
+.det tr td button{
+    width: 100%;
+}
+
+footer{
+    padding: 10px;
+    background-color: #3D3B8E;
+    color: white;
+    margin-top: 3rem;
+}
+
+.prue{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 5px;
+    width: 100%;
+    font-size: 20px;
+}
+
+.tabla button{
+    margin-bottom: 2rem;
+}
+
+.x-9{
+    background-color: #0e3161b8;
+    color: white;
+}
